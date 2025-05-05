@@ -1,0 +1,1 @@
+db.Customers.find().pretty(); // 'pretty' for better formatting

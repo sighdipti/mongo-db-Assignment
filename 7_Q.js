@@ -1,0 +1,1 @@
+useSchoolDB; // Switch to the new database
